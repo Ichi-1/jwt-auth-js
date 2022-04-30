@@ -1,1 +1,1 @@
-# jwt_auth_repo
+# jwt-auth-repo
